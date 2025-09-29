@@ -50,7 +50,7 @@ The dataset used is from Kaggle:
 
 ## 📊 Results
 
-- Achieved **~94% test accuracy** on the dataset  
+- Achieved **~96% test accuracy** on the dataset  
 - Model successfully distinguishes between BSL numbers and letters  
 
 ---
